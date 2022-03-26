@@ -1,5 +1,4 @@
-from discord import Object, Colour
-import colorsys
+from discord import Object
 
 
 test_server = Object(id=879153063036858428)
